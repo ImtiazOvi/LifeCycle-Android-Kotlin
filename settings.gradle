@@ -1,0 +1,2 @@
+rootProject.name='LifeCycle-Android-Kotlin'
+include ':app'
